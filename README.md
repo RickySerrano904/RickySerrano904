@@ -5,7 +5,7 @@
 </p> -->
 
 <p align="center">
-  <a href="https://RickyRicardo.dev">RickyRicardo.dev</a>
+  <a href="https://RickySerrano.dev">RickySerrano.dev</a>
   <!-- <a href="https://www.linkedin.com/in/rickyricardo904">LinkedIn</a> •
   <a href="Ko-fi.com/rickyricardo904 ">Ko-Fi</a>
 </p> -->
