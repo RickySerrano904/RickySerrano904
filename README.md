@@ -1,16 +1,14 @@
-<h2 align="center">Hello World! I'm Ricky</h1>
+<h1 align="center">Hello World! I'm Ricky</h1>
 
-<p align="center">
+<!-- <p align="center">
   Full-Stack Developer • IT Support Technician • Information Systems Technology Student
-</p>
+</p> -->
 
 <p align="center">
-  <a href="https://RickyRicardo.dev">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/rickyricardo904">LinkedIn</a> •
+  <a href="https://RickyRicardo.dev">RickyRicardo.dev</a> •
+  <!-- <a href="https://www.linkedin.com/in/rickyricardo904">LinkedIn</a> •
   <a href="Ko-fi.com/rickyricardo904 ">Ko-Fi</a>
-</p>
-
----
+</p> -->
 
 ## About Me
 
