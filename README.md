@@ -5,20 +5,23 @@
 </p> -->
 
 <p align="center">
-  <a href="https://RickyRicardo.dev">RickyRicardo.dev</a> •
+  <a href="https://RickyRicardo.dev">RickyRicardo.dev</a>
   <!-- <a href="https://www.linkedin.com/in/rickyricardo904">LinkedIn</a> •
   <a href="Ko-fi.com/rickyricardo904 ">Ko-Fi</a>
 </p> -->
 
+
 ## About Me
 
 Hello! My name is Ricky, I'm a full-stack developer with a passion for creating accessible, user-friendly tools and interfaces. I’ve always loved the world of computers and code, especially the ability to create things that make people smile, solve real problems, and make life a little easier.
+
 
 ## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RickyRicardo904/RickyRicardo904/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
+
 
 ## Tech Stack & Tools
 
@@ -33,6 +36,7 @@ Hello! My name is Ricky, I'm a full-stack developer with a passion for creating 
 ![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+
 ### Frameworks & Libraries
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -41,6 +45,7 @@ Hello! My name is Ricky, I'm a full-stack developer with a passion for creating 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 
 ### Databases, DevOps & Platforms
 
@@ -51,6 +56,7 @@ Hello! My name is Ricky, I'm a full-stack developer with a passion for creating 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
+
 ### IT, Support & Productivity Tools
 
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -59,7 +65,6 @@ Hello! My name is Ricky, I'm a full-stack developer with a passion for creating 
 ![Figma](https://img.shields.io/badge/Figma-2C2C2C?style=for-the-badge&logo=figma&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
 
----
 
 ## Featured Projects
 
@@ -69,13 +74,13 @@ A full-stack web application designed for older adults and caregivers to stay or
 
 **Built with:** Java, Spring Boot, Angular, TypeScript, PostgreSQL
 
+
 ### Enzo's World
 
 A personal website built with Next.js, TypeScript, Tailwind CSS, and MDX.
 
 **Built with:** Next.js, TypeScript, Tailwind CSS, MDX, Vercel
 
----
 
 ## GitHub Stats
 
@@ -87,8 +92,6 @@ A personal website built with Next.js, TypeScript, Tailwind CSS, and MDX.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RickyRicardo904&theme=tokyonight&hide_border=true" alt="Ricky's GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyRicardo904&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
+</p> -->
