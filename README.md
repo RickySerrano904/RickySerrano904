@@ -1,7 +1,7 @@
-<h1 align="center">Hello! My name is Ricky 👋</h1>
+<h1 align="center">Hello World! I'm Ricky 👋</h1>
 
 <p align="center">
-  Full-Stack Developer • IT Support Technician • Information Systems Technology
+  Full-Stack Developer • IT Support Technician • Information Systems Technology Student
 </p>
 
 <p align="center">
