@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://enzosworld.com">Portfolio</a> •
-  <a href="https://github.com/RickyRicardo904">GitHub</a> •
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">LinkedIn</a>
+  <a href="https://RickyRicardo.dev">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/rickyricardo904">LinkedIn</a> •
+  <a href="Ko-fi.com/rickyricardo904 ">Ko-Fi</a>
 </p>
 
 ---
