@@ -63,7 +63,7 @@ Hello! My name is Ricky, I'm a full-stack developer with a passion for creating 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
 
 
-## Featured Projects
+<!-- ## Featured Projects
 
 ### Senior Helper
 
@@ -78,7 +78,7 @@ A personal website built with Next.js, TypeScript, Tailwind CSS, and MDX.
 
 **Built with:** Next.js, TypeScript, Tailwind CSS, MDX, Vercel
 
----
+--- -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RickyRicardo904&show_icons=true&theme=tokyonight&hide_border=true" alt="Ricky's GitHub Stats" />
