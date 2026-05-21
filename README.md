@@ -5,7 +5,7 @@
 </p> -->
 
 <p align="center">
-  <a href="https://RickyRicardo.dev">RickyRicardo.dev</a>
+  <a href="https://RickySerrano.dev">RickySerrano.dev</a>
   <!-- <a href="https://www.linkedin.com/in/rickyricardo904">LinkedIn</a> •
   <a href="Ko-fi.com/rickyricardo904 ">Ko-Fi</a>
 </p> -->
@@ -81,11 +81,11 @@ A personal website built with Next.js, TypeScript, Tailwind CSS, and MDX.
 --- -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RickyRicardo904&show_icons=true&theme=tokyonight&hide_border=true" alt="Ricky's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RickySerrano904&show_icons=true&theme=tokyonight&hide_border=true" alt="Ricky's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RickyRicardo904&theme=tokyonight&hide_border=true" alt="Ricky's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RickySerrano904&theme=tokyonight&hide_border=true" alt="Ricky's GitHub Streak" />
 </p>
 
 <!-- <p align="center">
