@@ -13,7 +13,7 @@
 
 ## About Me
 
-Hello! My name is Ricky, I'm an IT support technician with a passion for creating accessible, user-friendly tools and interfaces. I’ve always loved the world of computers and code, especially the ability to create things that make people smile, solve real problems, and make life a little easier.
+Hello! My name is Ricky. I’ve always loved the world of computers and code, especially the ability to create things that make people smile, solve real problems, and make life a little easier. I enjoy building tools and interfaces that are simple, practical, and easy to use. With a background in IT support and a degree in Information Systems Technology, I’ve learned how to approach problems from both the technical side and the user’s perspective.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RickyRicardo904/RickyRicardo904/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
