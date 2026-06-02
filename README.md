@@ -13,7 +13,7 @@
 
 ## About Me
 
-Hello! My name is Ricky, I'm a full-stack developer with a passion for creating accessible, user-friendly tools and interfaces. I’ve always loved the world of computers and code, especially the ability to create things that make people smile, solve real problems, and make life a little easier.
+Hello! My name is Ricky, I'm an IT support technician with a passion for creating accessible, user-friendly tools and interfaces. I’ve always loved the world of computers and code, especially the ability to create things that make people smile, solve real problems, and make life a little easier.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RickyRicardo904/RickyRicardo904/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
