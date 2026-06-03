@@ -58,6 +58,8 @@ Hello! My name is Ricky. I've always loved the world of computers and code, espe
 ![Figma](https://img.shields.io/badge/Figma-2C2C2C?style=for-the-badge&logo=figma&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
 
+---
+<br>
 
 <!-- [![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickyserrano904)](https://github.com/rickyserrano904/github-readme-stats) -->
 
@@ -74,5 +76,5 @@ Hello! My name is Ricky. I've always loved the world of computers and code, espe
 </p> -->
 
 <p align="center">
-  <img src="assets/helpdesk-lol.jpg" alt="Help desk humor image" width="600" />
+  <img src="assets/helpdesk-lol.jpg" alt="Help desk humor image" width="400" />
 </p>
