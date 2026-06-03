@@ -7,9 +7,11 @@
 </p> -->
 
 <p align="center">
+  <img src="assets/cordelia-sprite-2.gif" alt="Cordelia sprite" width="72" />
   <a href="https://RickySerrano.dev">
     <img src="assets/site-link.svg" alt="RickySerrano.dev" width="360" />
   </a>
+  <img src="assets/cordelia-sprite.gif" alt="Cordelia sprite" width="72" />
 
   <!-- <a href="https://www.linkedin.com/in/rickyricardo904">LinkedIn</a> -
   <a href="Ko-fi.com/rickyricardo904 ">Ko-Fi</a>
