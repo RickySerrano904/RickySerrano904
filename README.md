@@ -59,7 +59,9 @@ Hello! My name is Ricky. I've always loved the world of computers and code, espe
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
 
 
-[![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickyserrano904)](https://github.com/rickyserrano904/github-readme-stats)
+<!-- [![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickyserrano904)](https://github.com/rickyserrano904/github-readme-stats) -->
+
+![Stats](./profile/stats.svg)
 
 <!-- <p align="center">
   <img src="profile/streak.svg" alt="Ricky's GitHub Streak" />
