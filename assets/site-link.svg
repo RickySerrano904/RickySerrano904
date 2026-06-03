@@ -1,0 +1,32 @@
+<svg width="360" height="64" viewBox="0 0 360 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">RickySerrano.dev</title>
+  <desc id="desc">Animated portfolio website link badge</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="360" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="-120" y1="0" x2="0" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.85"/>
+      <stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+      <animate attributeName="x1" values="-160;360" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;520" dur="2.8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.345 0 0 0 0 0.651 0 0 0 0 1 0 0 0 0.7 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="356" height="60" rx="14" fill="#0D1117" stroke="url(#border)" stroke-width="2"/>
+  <rect x="7" y="7" width="346" height="50" rx="11" fill="url(#shine)" opacity="0.28"/>
+  <text x="180" y="38" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="0" fill="#E6EDF3" filter="url(#glow)">RickySerrano.dev</text>
+</svg>

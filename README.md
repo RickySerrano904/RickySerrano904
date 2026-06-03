@@ -5,7 +5,9 @@
 </p> -->
 
 <p align="center">
-  <a href="https://RickySerrano.dev">RickySerrano.dev</a>
+  <a href="https://RickySerrano.dev">
+    <img src="assets/site-link.svg" alt="RickySerrano.dev" width="360" />
+  </a>
 
   <!-- <a href="https://www.linkedin.com/in/rickyricardo904">LinkedIn</a> -
   <a href="Ko-fi.com/rickyricardo904 ">Ko-Fi</a>
