@@ -91,3 +91,7 @@ A personal website built with Next.js, TypeScript, Tailwind CSS, and MDX.
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyRicardo904&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p> -->
+
+<p align="center">
+  <img src="assets\helpdesk-lol.jpg" alt="Description of image" width="600" />
+</p>
