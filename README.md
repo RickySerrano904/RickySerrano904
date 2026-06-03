@@ -1,29 +1,28 @@
 <h1 align="center">Hello World! I'm Ricky</h1>
 
 <!-- <p align="center">
-  Full-Stack Developer • IT Support Technician • Information Systems Technology Student 
+  Full-Stack Developer - IT Support Technician - Information Systems Technology Student
 </p> -->
 
 <p align="center">
   <a href="https://RickySerrano.dev">RickySerrano.dev</a>
-  <!-- <a href="https://www.linkedin.com/in/rickyricardo904">LinkedIn</a> •
+
+  <!-- <a href="https://www.linkedin.com/in/rickyricardo904">LinkedIn</a> -
   <a href="Ko-fi.com/rickyricardo904 ">Ko-Fi</a>
 </p> -->
 
 
 ## About Me
-
-Hello! My name is Ricky. I’ve always loved the world of computers and code, especially the ability to create things that make people smile, solve real problems, and make life a little easier. I enjoy building tools and interfaces that are simple, practical, and easy to use. With a background in IT support and a degree in Information Systems Technology, I’ve learned how to approach problems from both the technical side and the user’s perspective.
+Hello! My name is Ricky. I've always loved the world of computers and code, especially the ability to create things that make people smile, solve real problems, and make life a little easier. I enjoy building tools and interfaces that are simple, practical, and easy to use. With a background in IT support and a degree in Information Systems Technology, I've learned how to approach problems from both the technical side and the user's perspective.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RickyRicardo904/RickyRicardo904/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/RickySerrano904/RickySerrano904/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
 
 
 ## Tech Stack & Tools
 
 ### Languages
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -35,7 +34,6 @@ Hello! My name is Ricky. I’ve always loved the world of computers and code, es
 
 
 ### Frameworks & Libraries
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -45,7 +43,6 @@ Hello! My name is Ricky. I’ve always loved the world of computers and code, es
 
 
 ### Databases, DevOps & Platforms
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -55,7 +52,6 @@ Hello! My name is Ricky. I’ve always loved the world of computers and code, es
 
 
 ### IT, Support & Productivity Tools
-
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![ConnectWise](https://img.shields.io/badge/ConnectWise-1F4E79?style=for-the-badge&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -63,35 +59,16 @@ Hello! My name is Ricky. I’ve always loved the world of computers and code, es
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
 
 
-<!-- ## Featured Projects
-
-### Senior Helper
-
-A full-stack web application designed for older adults and caregivers to stay organized, connected, and safer online.
-
-**Built with:** Java, Spring Boot, Angular, TypeScript, PostgreSQL
-
-
-### Enzo's World
-
-A personal website built with Next.js, TypeScript, Tailwind CSS, and MDX.
-
-**Built with:** Next.js, TypeScript, Tailwind CSS, MDX, Vercel
-
---- -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RickySerrano904&show_icons=true&theme=tokyonight&hide_border=true" alt="Ricky's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RickySerrano904&theme=tokyonight&hide_border=true" alt="Ricky's GitHub Streak" />
-</p>
+[![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickyserrano904)](https://github.com/rickyserrano904/github-readme-stats)
 
 <!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyRicardo904&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="profile/streak.svg" alt="Ricky's GitHub Streak" />
+</p> -->
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickySerrano904&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p> -->
 
 <p align="center">
-  <img src="assets\helpdesk-lol.jpg" alt="Description of image" width="600" />
+  <img src="assets/helpdesk-lol.jpg" alt="Help desk humor image" width="600" />
 </p>
