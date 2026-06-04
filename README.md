@@ -69,9 +69,9 @@ I've always loved the world of computers and code, especially the ability to cre
 
 <!-- [![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickyserrano904)](https://github.com/rickyserrano904/github-readme-stats) -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="profile/stats.svg" alt="Ricky's GitHub Stats" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="profile/streak.svg" alt="Ricky's GitHub Streak" />
@@ -82,5 +82,5 @@ I've always loved the world of computers and code, especially the ability to cre
 </p> -->
 
 <p align="center">
-  <img src="assets/helpdesk-lol.jpg" alt="Help desk humor image" width="400" />
+  <img src="assets/helpdesk-lol.jpg" alt="Help desk humor image" width="300" />
 </p>
