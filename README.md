@@ -82,5 +82,5 @@ Hello! My name is Ricardo but I go by Ricky. I love the world of computers and c
 </p> -->
 
 <p align="center">
-  <img src="assets/helpdesk-lol.jpg" alt="Help desk humor image" width="300" />
+  <img src="assets/helpdesk-lol.jpg" alt="Help desk humor image" width="350" />
 </p>
