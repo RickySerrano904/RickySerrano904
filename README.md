@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hello World! I'm Ricky</h1> -->
 
-![Header](assets/github-header-lapras.png)
+![Header](assets/github-header-banner-resize.png)
 
 <!-- <p align="center">
   Full-Stack Developer - IT Support Technician - Information Systems Technology Student
