@@ -81,6 +81,6 @@ Hello! My name is Ricardo but I go by Ricky. I love the world of computers and c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickySerrano904&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/helpdesk-lol.jpg" alt="Help desk humor image" width="350" />
-</p>
+</p> -->
