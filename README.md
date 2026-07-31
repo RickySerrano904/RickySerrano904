@@ -64,8 +64,8 @@ Hello! My name is Ricardo but I go by Ricky. I love the world of computers and c
 ![Figma](https://img.shields.io/badge/Figma-2C2C2C?style=for-the-badge&logo=figma&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
 
----
-<br>
+<!-- ---
+<br> -->
 
 <!-- [![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickyserrano904)](https://github.com/rickyserrano904/github-readme-stats) -->
 
